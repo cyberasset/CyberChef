@@ -1,2 +1,1 @@
 # CyberChef
-# CyberChef
